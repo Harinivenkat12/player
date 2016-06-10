@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="play_button_title">Play</string>
+    <string name="pause_button_title">Pause</string>
+    <string name="title_name">Grey\'s Anatomy</string>
+</resources>
